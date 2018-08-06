@@ -3,6 +3,8 @@ public class HelloWorld {
 
 	public static void Mainclass(String args[]) 
 	{
+		Sales s=new Sales();
+		s.show();
 		System.out.println("hello");
 		greet();
 	}
