@@ -10,6 +10,8 @@ public class HelloWorld {
 	private static void greet() {
 		// TODO Auto-generated method stub
 		System.out.println("in method");
+		System.out.println("hi");
+		
 	}
 	
 	
