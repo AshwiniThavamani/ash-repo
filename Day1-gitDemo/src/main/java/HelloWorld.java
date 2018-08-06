@@ -4,7 +4,11 @@ public class HelloWorld {
 	public static void Mainclass(String args[]) 
 	{
 		Sales s=new Sales();
+		FirstNewClass f=new FirstNewClass();
+		NewClass n=new NewClass();
+		n.newClass1();
 		s.show();
+		f.greet();
 		System.out.println("hello");
 		greet();
 	}
